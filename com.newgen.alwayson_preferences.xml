@@ -1,0 +1,120 @@
+<   ?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="haptic_feedback" value="false" />
+    <boolean name="notification_permission_granted" value="true" />
+    <int name="color_analog_min" value="-328966" />
+    <int name="color_analog_sec" value="-1565087" />
+    <int name="color_icon" value="-328966" />
+    <boolean name="block_status_bar" value="false" />
+    <string name="fingerprint">biometric</string>
+    <boolean name="sms_reply" value="true" />
+    <boolean name="notification_buttons" value="true" />
+    <boolean name="notification_privacy" value="true" />
+    <int name="color_flash" value="-10592674" />
+    <int name="color_homebutton" value="-328966" />
+    <boolean name="round_circle" value="true" />
+    <string name="stop_delay">0</string>
+    <boolean name="owned_items" value="false" />
+    <string name="watchface_battery">0</string>
+    <boolean name="gradiant_colors" value="true" />
+    <boolean name="improved_delay" value="false" />
+    <boolean name="weather_state" value="true" />
+    <boolean name="improved_delay_root" value="false" />
+    <boolean name="trial_mode" value="false" />
+    <boolean name="increase_bright" value="false" />
+    <string name="msgboxclick">singleClick</string>
+    <boolean name="particle_animation" value="false" />
+    <boolean name="proximity_to_lock" value="false" />
+    <int name="color_memo" value="-328966" />
+    <boolean name="notifications_alerts" value="true" />
+    <boolean name="enabled" value="true" />
+    <string name="battery_rules">0</string>
+    <int name="color_calculator" value="-10592674" />
+    <int name="fab_color" value="-328966" />
+    <string name="screen_buttons">Samsung One</string>
+    <string name="theme">one</string>
+    <boolean name="noti_overlay" value="false" />
+    <boolean name="calculator_button" value="false" />
+    <boolean name="music_stop" value="false" />
+    <boolean name="permission_granted" value="true" />
+    <int name="color_min" value="-1565087" />
+    <string name="cal_events">disabled</string>
+    <int name="color_battery" value="-328966" />
+    <string name="edge_style">styleS</string>
+    <boolean name="cal_button" value="false" />
+    <boolean name="guide_view_shown" value="true" />
+    <boolean name="show_seconds" value="false" />
+    <boolean name="clicked" value="false" />
+    <string name="edge_delay">30</string>
+    <string name="time_out_delay">10</string>
+    <boolean name="showampm" value="false" />
+    <boolean name="wave_to_wake" value="false" />
+    <string name="movement_style">1</string>
+    <boolean name="notifications_alerts_preview" value="true" />
+    <string name="font">1</string>
+    <int name="color_sketch" value="-10592674" />
+    <int name="color_alarm" value="-328966" />
+    <boolean name="persistent_notification" value="true" />
+    <int name="color_wavea" value="-1499549" />
+    <int name="color_waveb" value="-14575885" />
+    <boolean name="glance_display" value="false" />
+    <int name="color_wavec" value="-11751600" />
+    <boolean name="auto_brightness" value="false" />
+    <int name="color_waved" value="-16121" />
+    <boolean name="taptoturn" value="false" />
+    <string name="rules">always</string>
+    <boolean name="bail_out" value="false" />
+    <int name="color_event" value="-328966" />
+    <boolean name="doze_mode" value="false" />
+    <string name="swipe_up_action">0</string>
+    <boolean name="date_all_caps" value="true" />
+    <boolean name="charging_status" value="false" />
+    <boolean name="show_alarm" value="true" />
+    <int name="color_wavee" value="-1" />
+    <boolean name="super_user" value="false" />
+    <int name="color_hour" value="-328966" />
+    <int name="one_color_theme" value="-6836785" />
+    <string name="weather_delay">0</string>
+    <boolean name="overide_colors" value="true" />
+    <boolean name="onscreen_icons" value="true" />
+    <boolean name="raise_to_wake" value="false" />
+    <boolean name="show_badges" value="false" />
+    <boolean name="brightness_mode" value="false" />
+    <int name="color_analog" value="-328966" />
+    <string name="weather_lang">ENGLISH</string>
+    <string name="block_end_time">00:00</string>
+    <boolean name="color_wave" value="true" />
+    <boolean name="military_time" value="true" />
+    <int name="color_msgbox" value="-2171170" />
+    <string name="edge_mode">smooth</string>
+    <string name="weather_units">metric</string>
+    <boolean name="notch_enabled" value="false" />
+    <boolean name="flash_button" value="false" />
+    <boolean name="tap_noti" value="false" />
+    <string name="swipe_right_action">0</string>
+    <int name="font_size" value="80" />
+    <boolean name="block_always_enabled" value="true" />
+    <string name="swipe_left_action">0</string>
+    <boolean name="noti_gestures" value="true" />
+    <string name="noti_reminder_delay">0</string>
+    <string name="screen_orientation">vertical</string>
+    <string name="edge_lighting">notifications</string>
+    <boolean name="music_control" value="true" />
+    <string name="app_lang">Thai</string>
+    <string name="double_tap_action">1</string>
+    <int name="color_date" value="-328966" />
+    <string name="glance_delay">30</string>
+    <boolean name="disable_volume_keys" value="true" />
+    <boolean name="startafterlock" value="true" />
+    <int name="color_analog_hour" value="-16537100" />
+    <int name="color_weather" value="-328966" />
+    <int name="color_cal" value="-10592674" />
+    <string name="block_start_time">06:00</string>
+    <int name="color_music" value="-328966" />
+    <int name="color_bg_ui" value="-13553359" />
+    <string name="swipe_down_action">1</string>
+    <boolean name="policy_accepted" value="true" />
+    <boolean name="tapon_lighting" value="false" />
+    <boolean name="show_action_icons" value="true" />
+    <string name="weather_view">besidedate</string>
+</map>
